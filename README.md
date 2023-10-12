@@ -4,8 +4,6 @@
 
 Projeto de um conversor de moedas feito como desafio do "Challenge ONE". 
 
-🔗 [Acesse aqui](https://wallacemod.github.io/challenge-codificador/)
-
 ### Suas funcionalidades são:
 - Converter de Reais a Dólar
 - Converter de Reais a Dólar
